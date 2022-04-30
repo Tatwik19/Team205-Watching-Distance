@@ -8,4 +8,4 @@ The Following is the PCB schematic:
 
 ![20220430_104416](https://user-images.githubusercontent.com/96451759/166118037-aef595fe-bed9-4bc8-a2e5-96a3eada7e6c.jpg)
 
-Team Poaster[Poster .pptx.pdf](https://github.com/Tatwik19/Team205-Watching-Distance/files/8597605/Poster.pptx.pdf)
+Team Poaster[Poster .pptx.pdf]  [Poster.pdf](https://github.com/Tatwik19/Team205-Watching-Distance/files/8597608/Poster.pdf)
